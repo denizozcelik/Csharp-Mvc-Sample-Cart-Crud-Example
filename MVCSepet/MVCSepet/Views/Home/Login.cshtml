@@ -1,0 +1,46 @@
+﻿@using MVCSepet.Models
+
+@model Employee
+
+
+@{
+    /**/
+        ViewBag.Title = "Login";
+}
+
+@if (ViewBag.Mesaj != null)
+{
+    <div class="alert alert-danger" role="alert" >
+        @ViewBag.Mesaj
+    </div>
+}
+
+@if (ViewBag.UyeOlmamissiniz != null)
+{
+    @ViewBag.UyeOlmamissiniz
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        Username
+    </div>
+    <div>
+        @Html.TextBoxFor(x => x.FirstName)
+    </div>
+    <div>
+        Password
+    </div>
+    <div>
+        @Html.TextBoxFor(x => x.LastName)
+    </div>
+
+    <div>
+        <button class="btn btn-primary">
+            <span class="glyphicon glyphicon-user"></span>Login
+        </button>
+    </div>
+}
+

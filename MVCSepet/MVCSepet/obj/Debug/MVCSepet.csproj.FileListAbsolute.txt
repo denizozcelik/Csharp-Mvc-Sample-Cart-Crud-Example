@@ -1,0 +1,211 @@
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.dll.config
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.pdb
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.exe
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.exe.config
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.rsp
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csi.exe
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csi.rsp
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.AppContext.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Collections.Immutable.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Reflection.Metadata.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.exe
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.exe.config
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.rsp
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe.config
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.Web.Infrastructure.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Helpers.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Mvc.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Razor.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Razor.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Helpers.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Mvc.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csprojAssemblyReference.cache
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CoreCompileInputs.cache
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CopyComplete
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.dll
+E:\Gruplar\YMS3516\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.pdb
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.dll.config
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\MVCSepet.pdb
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.exe
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.exe.config
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csc.rsp
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csi.exe
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\csi.rsp
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.AppContext.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.exe
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.exe.config
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\vbc.rsp
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Helpers.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Mvc.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Razor.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Razor.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Helpers.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\System.Web.Mvc.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.dll
+C:\Users\Batuhan\Desktop\C#\Hocanın Yazdıklari\MVC\02.10.2019\MVCSepet\MVCSepet\obj\Debug\MVCSepet.pdb
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\MVCSepet.dll.config
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\MVCSepet.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\MVCSepet.pdb
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\csc.exe
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\csc.exe.config
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\csc.rsp
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\csi.exe
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\csi.rsp
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.AppContext.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\vbc.exe
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\vbc.exe.config
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\vbc.rsp
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\EntityFramework.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Helpers.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Mvc.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Razor.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\EntityFramework.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Razor.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Helpers.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\System.Web.Mvc.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CoreCompileInputs.cache
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CopyComplete
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\obj\Debug\MVCSepet.dll
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\obj\Debug\MVCSepet.pdb
+C:\Users\Jaximus\Desktop\bilgeadamkurs\6-şubat\10.02.2019\MVCSepetUpdate\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csprojAssemblyReference.cache
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\MVCSepet.dll.config
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\MVCSepet.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\MVCSepet.pdb
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\csc.exe
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\csc.exe.config
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\csc.rsp
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\csi.exe
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\csi.rsp
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.AppContext.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\vbc.exe
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\vbc.exe.config
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\vbc.rsp
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\EntityFramework.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Helpers.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Mvc.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Razor.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\EntityFramework.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Razor.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Helpers.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\System.Web.Mvc.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csprojAssemblyReference.cache
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CoreCompileInputs.cache
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\obj\Debug\MVCSepet.csproj.CopyComplete
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\obj\Debug\MVCSepet.dll
+C:\Users\Jaximus\Desktop\MVCSepet\MVCSepet\obj\Debug\MVCSepet.pdb

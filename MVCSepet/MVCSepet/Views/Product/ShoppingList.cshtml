@@ -1,0 +1,48 @@
+﻿@using MVCSepet.Models
+
+@model List<Product>
+
+
+@{
+    ViewBag.Title = "ShoppingList";
+}
+
+<h2>ShoppingList</h2>
+
+@if (HttpContext.Current.Session["gecersizUye"] != null)
+{
+    <h1>   @Session["gecersizUye"]     </h1>
+}
+
+<div class="panel panel-default">
+    <div class="panel panel-body">
+        <table class="table table-hover">
+            <tr>
+                <th> Ürun İsmi</th>
+                <th>Ürün Fiyatı</th>
+                <th>Kategorisi</th>
+                <th>@Html.ActionLink("Sepete Git", "SepetSayfasi", "Product", null, new { @class = "btn btn-primary" })</th>
+            </tr>
+            @foreach (Product item in Model)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.UnitPrice</td>
+                    @if (item.Category == null)
+                    {
+                        <td>Kategorisi Yok</td>
+                    }
+                    else
+                    {
+                        <td>@item.Category.CategoryName</td>
+                    }
+                    <td>
+                        @Html.ActionLink("Sepete At", "AddToCart", new { id = item.ProductID }, new { @class = "btn btn-warning" })
+
+                    </td>
+
+                </tr>
+            }
+        </table>
+    </div>
+</div>

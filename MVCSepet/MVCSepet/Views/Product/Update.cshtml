@@ -1,0 +1,27 @@
+﻿@model CartItem
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+<div class="panel panel-warning">
+    <div class="panel panel-body">
+        @using (Html.BeginForm("Update", "Product", FormMethod.Post))
+        {
+            @Html.HiddenFor(x => x.ID)
+            <div>
+                Ürün Adedini Güncelle
+            </div>
+            <div>
+                @Html.TextBoxFor(x => x.Amount)
+            </div>
+           
+            <div>
+                <button class="btn btn-success">
+                    Kategori Guncelle
+                </button>
+            </div>
+        }
+    </div>
+</div>
